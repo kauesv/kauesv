@@ -1,4 +1,4 @@
-## Olá me chamo Kauê e seja bem-vindo(a) ao meu perfil!
+## Olá 🤓 me chamo Kauê e seja bem-vindo(a) ao meu perfil!
 
 Manutenção:
 [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
