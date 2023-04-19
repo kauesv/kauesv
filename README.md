@@ -1,4 +1,4 @@
-## Olá 🤓, me chamo Kauê e seja bem-vindo(a) ao meu perfil! ![GitHub followers](https://img.shields.io/github/followers/kauesv?style=social)
+## Olá! Seja bem-vindo(a) ao meu perfil! ![GitHub followers](https://img.shields.io/github/followers/kauesv?style=social)
 
 <br>
 
@@ -11,11 +11,16 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="django" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+  <img align="center" alt="django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>
 
 ## Sobre mim
 <img align="right" alt="cat" height="170" width="200" src="https://i.giphy.com/media/r7Y17m4862kdW/giphy.webp">
+
+Olá me chamo Kauê, sou nascido e criado em São Paulo, estudante da área de tecnologia da informação, formado em gestão de TI, pós graduado em gestão de pessoas, procurando aprender cada vez mais com meus colegas/Mestres de trabalho.
+
+Fique à vontade para me adicionar! É um prazer ter você por aqui 😄
+
 🔸️Desenvolvedor Python<br/>
 🔸️Django<br/>
 🔸️RPA<br/>
