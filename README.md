@@ -9,8 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauesv&layout=compact&count_private=true&show_icons=true&theme=dark" />
 </a>
 
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="django" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
