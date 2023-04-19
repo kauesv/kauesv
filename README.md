@@ -17,9 +17,7 @@
 ## Sobre mim
 <img align="right" alt="cat" height="170" width="200" src="https://i.giphy.com/media/r7Y17m4862kdW/giphy.webp">
 
-Olá me chamo Kauê, sou nascido e criado em São Paulo, estudante da área de tecnologia da informação, formado em gestão de TI, pós graduado em gestão de pessoas, procurando aprender cada vez mais com meus colegas/Mestres de trabalho.
-
-Fique à vontade para me adicionar! É um prazer ter você por aqui 😄
+Olá me chamo Kauê, sou nascido e criado em São Paulo, estudante da área de tecnologia da informação, formado em gestão de TI, pós graduado em gestão de pessoas, procurando aprender cada vez mais com meus colegas e mestres.
 
 🔸️Desenvolvedor Python<br/>
 🔸️Django<br/>
