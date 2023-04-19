@@ -1,14 +1,29 @@
-## Olá 🤓, me chamo Kauê e seja bem-vindo(a) ao meu perfil!
+## Olá 🤓, me chamo Kauê e seja bem-vindo(a) ao meu perfil! ![GitHub followers](https://img.shields.io/github/followers/kauesv?style=social)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauesv&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauesv&layout=compact&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kauesv&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauesv&layout=compact&count_private=true&show_icons=true&theme=dark" />
+</a>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-  <img align="right" height="150" style="border-radius:50px;" src="https://imgur.com/oZJdL0P">
+  <img align="center" alt="django" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 </div>
-  
+
+## Sobre mim
+<img align="right" alt="cat" height="170" width="200" src="https://i.giphy.com/media/r7Y17m4862kdW/giphy.webp">
+🔸️Desenvolvedor Python<br/>
+🔸️Django<br/>
+🔸️RPA<br/>
+🔸️ETL<br/>
+🔸️+ 3 anos de experiência na área de TI<br/>
+
   ##
  
 <div> 
