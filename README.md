@@ -19,7 +19,7 @@
 
 Olá me chamo Kauê, sou nascido e criado em São Paulo, estudante da área de tecnologia da informação, formado em gestão de TI, pós graduado em gestão de pessoas, procurando aprender cada vez mais com meus colegas e mestres.
 
-🔸️Desenvolvedor Python<br/>
+🔸️Python<br/>
 🔸️Django<br/>
 🔸️RPA<br/>
 🔸️ETL<br/>
