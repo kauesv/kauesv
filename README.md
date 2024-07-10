@@ -23,7 +23,7 @@ Olá me chamo Kauê, sou nascido e criado em São Paulo, estudante da área de t
 🔸️Django<br/>
 🔸️RPA<br/>
 🔸️ETL<br/>
-🔸️+ 4 anos de experiência na área de TI<br/>
+🔸️+ 4 anos de experiência como desenvolvedor Backend<br/>
 
   ##
  
