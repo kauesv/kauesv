@@ -20,7 +20,7 @@ Olá! Me chamo Kauê Sousa Vieira.
 <br>
 🎓 Formado em Gestão de TI<br>
 🎓 Pós-graduado em Gestão de Pessoas<br>
-🎓 Milhares de cursos com certificado (Linkedin)<br>
+🎓 +70 cursos com certificado (LinkedIn)<br>
 📍 São Paulo - Brasil<br>
 
   ##
